@@ -1,17 +1,9 @@
-<h1>👋 &nbsp;Olá, eu sou o Ryan, um desenvolvedor front end apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Ryan, um desenvolvedor Full Stack apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/ryanolv/"></a>
 <a href="mailto:ryanprofissional02@gmail.com"></a>
 
 </p>
-
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
-
-- 👨🏻‍💻 &nbsp; 
-- 💚 &nbsp; 
-- 🚀 &nbsp; 
-- 🏎 &nbsp; 
-- 💵 &nbsp;
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
